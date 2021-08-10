@@ -13,35 +13,14 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC_CvPIwiEn0_Dis86sqOCag?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>  
-  <a href="https://twitter.com/NeerajR76494084">
+  <a href="https://twitter.com/EpicPromote">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Neeraj2002">
+  <a href="https://github.com/Epicpromote">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://neeraj2002.github.io/">
+  <a href="https://epicpromote.ga/">
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https://epicpromote.ga/"/></a> 
-</p>
-
-## 🙋‍♂️ Connect with me
-
-<!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://devfolio.co/@nnr0702"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
-  <a href="https://dev.to/neeraj2002"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-</p>
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/Neeraj2002/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Neeraj2002&theme=monokai-metallian&hide_border=true"/>
-  </a>
 </p>
 
 ## 🛠️ My favorite tools
@@ -107,19 +86,3 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-0078d7.svg?logo=anaconda&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
-</p>
-
-# 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neeraj2002&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2002&layout=compact" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Neeraj2002&theme=react-dark&hide_border=true" /></a>
