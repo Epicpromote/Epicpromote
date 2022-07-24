@@ -8,7 +8,7 @@ Welcome to Mohit profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go
 - 👀 I’m interested in Bdfd and aoi.js
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Making epic bot
+- 🥅 2022 Goals: Learning web dev
 - 💞️ Fun Fact: Coding lover
 
 <!-- Badges template - https://github.com/badges/shields -->
